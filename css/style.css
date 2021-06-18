@@ -97,6 +97,7 @@ p{
     background: #FF6464;
     border-radius: 2px;
     text-decoration: none;
+    text-align: center;
 }
 .link:hover{
     color: rgb(209, 189, 189);
